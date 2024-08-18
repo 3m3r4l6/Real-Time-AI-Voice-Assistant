@@ -29,3 +29,7 @@
 - [Deepgram API](https://deepgram.com)
 - [PlayHT API](https://play.ht)
 - [Neets API](https://neets.ai/studio)
+
+
+
+> refer here: https://www.reddit.com/r/node/comments/1cu9pjs/project_real_time_ai_assistant_that_answers_you/
